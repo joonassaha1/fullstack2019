@@ -4,7 +4,8 @@ import Person from './components/Person';
 const App = () => {
   const [persons, setPersons] = useState([
     {
-      name: 'Arto Hellas',
+      name: 'Hätäkeskus',
+      number: '112',
       id: 1,
     }
   ])
